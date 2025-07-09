@@ -7,7 +7,7 @@ function App() {
         <header className="xv-header">
           <img src="/ailogo.png" alt="Xvanitee Logo" className="xv-logo" />
           <h1>Xvanitee AI Agency</h1>
-          <h2>Implement AI Into Your Business To Scale to "X" within "X" Days!</h2>
+          <h2>Implement AI Into Your Business To Book 10 listing appointments within 30 days!</h2>
           <p className="xv-cta">👇 <span>Schedule A Call With Us To Learn How We Do It</span> 👇</p>
         </header>
         <section className="xv-calendly">
