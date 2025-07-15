@@ -10,7 +10,7 @@ function App() {
           <header className="xv-header">
             <img src="/ailogo.png" alt="Xvanitee Logo" className="xv-logo" />
             <h1>Xvanitee AI Agency</h1>
-            <h2>Implement AI Into Your Business To Scale to "X" within "X" Days!</h2>
+            <h2>Implement AI Into Your Business To Get to 10 Listing Appointments within 30 Days!</h2>
             <p className="xv-cta">👇 <span>Schedule A Call With Us To Learn How We Do It</span> 👇</p>
           </header>
           <section className="xv-calendly">
@@ -31,7 +31,7 @@ function App() {
           </footer>
         </div>
         <Routes>
-          <Route path="/privacy" element={<PrivacyPolicy />} />
+          <Route path="/privacy" element={<PrivacyPolicy/>} />
         </Routes>
       </div>
     </Router>
